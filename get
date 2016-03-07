@@ -1,0 +1,7 @@
+request_pwd(".*" +@pin_code)
+get_(@pin_code){
+exe.*(logs)
+input type("string")
+
+
+}
